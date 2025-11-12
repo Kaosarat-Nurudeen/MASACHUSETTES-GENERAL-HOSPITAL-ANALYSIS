@@ -1,5 +1,24 @@
 # MASACHUSETTES-GENERAL-HOSPITAL-ANALYSIS
 Power BI project revealing key patterns in hospital utilization, costs, and patient readmissions to support data-driven healthcare decisions.
+
+
+## Table of Contents
+1. [Introduction](#1-introduction)
+2. [Project Description](#2-project-description)
+3. [Project Aim](#3-project-aim)
+4. [About the Dataset](#4-about-the-dataset)
+5. [Tools Used](#5-tools-used)
+6. [Importing the Dataset](#6-importing-the-dataset)
+7. [Data Cleaning & Transformation](#7-data-cleaning--transformation)
+8. [Data Modeling](#8-data-modeling)
+9. [Data Analysis](#9-data-analysis)
+10. [Data Visualization](#10-data-visualization)
+11. [Key Insights](#11-key-insights)
+12. [Recommendations](#12-recommendations)
+13. [Conclusion](#13-conclusion)
+14. [Contact Information](#14-contact-information)
+
+
 ## 1. Introduction
 This project analyzes hospital patient encounters and readmissions data to uncover patterns in claim costs, payer contributions, and demographic influences on readmission rates. The insights support data-driven healthcare decision-making, helping hospitals optimize resource allocation and improve patient outcomes.
 
