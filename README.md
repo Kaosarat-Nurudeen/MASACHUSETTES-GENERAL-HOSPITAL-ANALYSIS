@@ -111,7 +111,7 @@ Key metrics analyzed:
 - Donut Charts: Readmission Rates by Gender, Marital Status, Ethnicity, Race  
 - Bar Charts: Readmission Rates by City & County  
 
-**Dashboard Screenshots (placeholders for images):**
+**Dashboards:**
 
 ![Dashboard 1 Overview]  ![WhatsApp Image 2025-11-07 at 21 46 53_ff731c60](https://github.com/user-attachments/assets/787ebe60-5b3d-4ba7-af14-8fbfc088d3bf)
 
