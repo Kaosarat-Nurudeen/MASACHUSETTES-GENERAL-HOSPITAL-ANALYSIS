@@ -79,6 +79,7 @@ Key metrics analyzed:
 ---
 
 ## 10. Data Visualization
+
 **Dashboard/Page 1: Hospital Encounters and Claims Overview**  
 - KPI Cards: Total Patients, Total Encounters, Total Claim Cost, Average LOS, Readmission Rate  
 - Combo Chart: Encounters & Claim Cost over Time  
@@ -89,6 +90,12 @@ Key metrics analyzed:
 - Bar Charts: Readmission Rates by Encounter Class  
 - Donut Charts: Readmission Rates by Gender, Marital Status, Ethnicity, Race  
 - Bar Charts: Readmission Rates by City & County  
+
+**Dashboard Screenshots (placeholders for images):**
+
+![Dashboard 1 Overview]  ![WhatsApp Image 2025-11-07 at 21 46 53_ff731c60](https://github.com/user-attachments/assets/787ebe60-5b3d-4ba7-af14-8fbfc088d3bf)
+
+![Dashboard 2 Demographics] ![WhatsApp Image 2025-11-07 at 21 46 40_269a0140](https://github.com/user-attachments/assets/78e2ee31-923f-4d0a-8bd2-258db033c5ae)
 
 ---
 
@@ -121,6 +128,12 @@ The analysis provides actionable insights into hospital utilization, claim costs
 
 ## 14. Contact Information
 - **LinkedIn:** [www.linkedin.com/in/kaosarat-nurudeen-89471a2a4](https://www.linkedin.com/in/kaosarat-nurudeen-89471a2a4)  
-- **Email:** kaosaranurudeen513@gmail.com
+- **Email:** kaosaranurudeen513@gmail.com  
 
+---
+
+
+
+
+[View Live Dashboard](https://app.powerbi.com/view?r=your_dashboard_link)  
 
