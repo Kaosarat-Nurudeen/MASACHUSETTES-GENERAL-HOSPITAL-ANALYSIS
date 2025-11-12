@@ -122,5 +122,5 @@ The analysis provides actionable insights into hospital utilization, claim costs
 ## 14. Contact Information
 - **LinkedIn:** [www.linkedin.com/in/kaosarat-nurudeen-89471a2a4](https://www.linkedin.com/in/kaosarat-nurudeen-89471a2a4)  
 - **Email:** kaosaranurudeen513@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/kaosarat-nurudeen-89471a2a4](https://www.linkedin.com/in/kaosarat-nurudeen-89471a2a4)  
-- **Email:** kaosaranurudeen513@gmail.com
+
+
