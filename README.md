@@ -54,12 +54,7 @@ Imported hospital datasets into Power BI and cleaned using Power Query. Relation
 ## 8. Data Modeling
 - Multiple DAX measures were developed to calculate:  
   - Average Length of Stay (LOS)
-  - Average LOS (Days) = 
-CALCULATE(
-    AVERAGE('Encounters (fact table)'[LENGTH OF STAY]),
-    'Encounters (fact table)'[LENGTH OF STAY] > 0
-)
- 
+  - Average LOS (Days) 
   - Average Cost per Encounter  
   - Average Cost per Procedure  
   - Patients Payer Coverage  
@@ -134,12 +129,6 @@ The analysis provides actionable insights into hospital utilization, claim costs
 
 ## 14. Contact Information
 - **LinkedIn:** [www.linkedin.com/in/kaosarat-nurudeen-89471a2a4](https://www.linkedin.com/in/kaosarat-nurudeen-89471a2a4)  
-- **Email:** kaosaranurudeen513@gmail.com  
-
----
-
-
-
-
-[View Live Dashboard](https://app.powerbi.com/view?r=your_dashboard_link)  
+- **Email:** kaosaranurudeen513@gmail.com
+- 
 
