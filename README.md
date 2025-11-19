@@ -13,10 +13,9 @@ Power BI project revealing key patterns in hospital utilization, costs, and pati
 8. [Data Modeling](#8-data-modeling)
 9. [Data Analysis](#9-data-analysis)
 10. [Data Visualization](#10-data-visualization)
-11. [Key Insights](#11-key-insights)
-12. [Recommendations](#12-recommendations)
-13. [Conclusion](#13-conclusion)
-14. [Contact Information](#14-contact-information)
+11. [Insights and Reccomendations](#11-Insights-and-Reccommendations)
+12. [Conclusion](#12-conclusion)
+13. [Contact Information](#13-contact-information)
 
 
 ## 1. Introduction
@@ -119,34 +118,89 @@ Key metrics analyzed:
 
 ---
 
-## 11. Key Insights
-- Total claim cost: $101.5M, with urgent care and prenatal visits contributing most  
-- Medicare contributed $25M to claim costs, followed by Medicaid and Humana  
-- Readmission rates highest for urgent care (74%) and inpatient encounters (71%)  
-- Demographics: Hispanic patients had higher readmission rates (63.5%), White patients had highest racial readmission rates (65.5%), single patients slightly higher than married  
-- Geographic hotspots: Hull City (91%) and Plymouth County (80%)  
-- Procedural costs and utilization also contributed to overall claim cost insights  
+## 11 Insights & Recommendations
 
 ---
 
-## 12. Recommendations
-- Prioritize follow-up care for high-risk encounter types (urgent care & inpatient)  
-- Monitor Medicare and Medicaid-related costs and optimize resource allocation  
-- Implement targeted interventions in Hull City and Plymouth County to reduce readmissions  
-- Tailor healthcare programs considering demographic trends  
-- Analyze procedural efficiency to optimize costs  
-- Conduct patient education programs to reduce readmissions  
-- Regularly update dashboards for continuous monitoring of claims and readmissions  
-- Engage payers in collaborative programs to reduce unnecessary costs  
+### **Insight 1**
+**Insight:**  
+Urgent care and inpatient encounter classes have the highest readmission rates (74.11% and 71.81% respectively).
+
+**Recommendation:**  
+Implement post-discharge follow-up programs and improve discharge planning for urgent and inpatient patients to minimize preventable readmissions.
+
+**Stakeholder:**  
+Hospital Management and Clinical Care Teams
 
 ---
 
-## 13. Conclusion
+### **Insight 2**
+**Insight:**  
+The total claim cost is **$101.5M**, with urgent care clinic procedures (**$23.3M**) and prenatal visits (**$11.9M**) being the top cost drivers.
+
+**Recommendation:**  
+Conduct a cost-benefit analysis of high-expense procedures, streamline billing processes, and explore telemedicine for follow-up visits to reduce total costs.
+
+**Stakeholder:**  
+Finance Department and Medical Operations Team
+
+---
+
+### **Insight 3**
+**Insight:**  
+Medicare (**$25M**) and Medicaid (**$9M**) account for the majority of total claims.
+
+**Recommendation:**  
+Strengthen payer relationships through improved claim accuracy, timely submission, and regular performance review meetings to minimize reimbursement delays.
+
+**Stakeholder:**  
+Claims Management and Finance Teams
+
+---
+
+### **Insight 4**
+**Insight:**  
+Cities such as **Hull (91.36%)** and **Weymouth (79.25%)** have disproportionately higher readmission rates compared to other areas.
+
+**Recommendation:**  
+Investigate healthcare delivery quality in these locations and introduce telehealth or outreach programs to support follow-up care.
+
+**Stakeholder:**  
+Regional Health Coordinators and Quality Assurance Unit
+
+---
+
+### **Insight 5**
+**Insight:**  
+Readmission rates are evenly distributed by gender (Male: 49.32%, Female: 50.68%) and marital status, but the **Hispanic group (63.53%)** shows higher readmission counts.
+
+**Recommendation:**  
+Introduce community-specific health education and culturally competent care initiatives to address demographic disparities.
+
+**Stakeholder:**  
+Public Health Department and Community Outreach Team
+
+---
+
+### **Insight 6**
+**Insight:**  
+Readmission rates vary significantly across counties, with **Plymouth County (80.11%)** being the highest.
+
+**Recommendation:**  
+Develop county-level intervention programs focusing on readmission prevention and enhanced coordination between hospitals and primary care providers.
+
+**Stakeholder:**  
+Hospital Administration and County Health Boards
+
+
+---
+
+## 12. Conclusion
 The analysis provides actionable insights into hospital utilization, claim costs, and readmission patterns. Multiple DAX measures and interactive dashboards enable dynamic exploration of patient and procedural data, supporting hospital management in improving care quality and operational efficiency.
 
 ---
 
-## 14. Contact Information
+## 13. Contact Information
 - **LinkedIn:** [www.linkedin.com/in/kaosarat-nurudeen-89471a2a4](https://www.linkedin.com/in/kaosarat-nurudeen-89471a2a4)  
 - **Email:** kaosaranurudeen513@gmail.com
 
